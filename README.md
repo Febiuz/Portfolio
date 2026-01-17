@@ -1,4 +1,4 @@
-# Programming Portfolio
+# Coding Portfolio
 
 I am a Computer Science student.
 This repository is a general overview of my programming work and collects
