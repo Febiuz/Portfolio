@@ -31,8 +31,8 @@ Projects focused on:
 - ...
 
 ## Selected repositories
-- Linked lists in C → https://github.com/        /linked-lists-in-c  
-- File I/O in C → https://github.com/            /file-io-c  
+- C Project  → https://github.com/        /c_project
+- Site Project 
  
 
 ## Notes
